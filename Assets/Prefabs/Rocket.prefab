@@ -240,3 +240,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _delay: 1
+  _crashSound: {fileID: 8300000, guid: 8ad1a40a6be68c549b9e95601b226b43, type: 3}
+  _sucessSound: {fileID: 8300000, guid: 6bfedbd85facf084789005991aff3860, type: 3}
